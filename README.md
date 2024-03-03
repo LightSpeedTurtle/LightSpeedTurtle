@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Aspiring VR/AR/MR/XR software engineer/designer</h3>
 
-- Recent project: [The Scalable Universe (VR) - An immersive VR educational experience about the large scale universe in Unity 3D to win the \#1 prize in technical innovation.](https://itch.io/jam/mc-vr-hackathon/rate/1962019)
+- Recent project: [The Scalable Universe (VR) - An immersive VR educational experience about the large scale universe in Unity 3D to win the \#1 prize in technical innovation.](https://itch.io/jam/mc-vr-hackathon/results/technical-innovation)
 
 - Another recent project: [Team 2! - A customer-focused web app aimed at bridging the gap between students and professors seeking to engage in collaborative projects beyond the confines of traditional coursework.](https://github.com/LightSpeedTurtle/teamtwo)
 
