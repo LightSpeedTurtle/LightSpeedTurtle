@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Aspiring VR/AR/MR/XR software engineer/designer</h3>
 
-- Recent Win:[Global XR Hack in Sweden](https://www.linkedin.com/posts/ahmedh131_i-flew-195-hours-across-the-globe-for-this-activity-7240211199148113920-0c9j?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaX5coBCJG2dCWV6W8v-eaPd7JtajLx0tY)
+Check out my [VisionOS inspired portfolio](https://www.linkedin.com/posts/ahmedh131_i-flew-195-hours-across-the-globe-for-this-activity-7240211199148113920-0c9j?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaX5coBCJG2dCWV6W8v-eaPd7JtajLx0tY)! Such an exciting project (still in progress). 
+
+- Recent Win: [Global XR Hack in Sweden](https://www.linkedin.com/posts/ahmedh131_i-flew-195-hours-across-the-globe-for-this-activity-7240211199148113920-0c9j?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaX5coBCJG2dCWV6W8v-eaPd7JtajLx0tY)
 
 - Recent project: [The Scalable Universe (VR) - An immersive VR educational experience about the large scale universe in Unity 3D to win the \#1 prize in technical innovation.](https://itch.io/jam/mc-vr-hackathon/results/technical-innovation)
 
